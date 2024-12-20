@@ -1,0 +1,17 @@
+import qiskit_metal as metal
+from qiskit_metal import designs, draw
+from qiskit_metal import MetalGUI, Dict, Headings
+from qiskit_metal.qlibrary.terminations.open_to_ground import OpenToGround
+from qiskit_metal.qlibrary.tlines.meandered import RouteMeander
+
+design = design.DesignPlanar()
+gui = MetalGUI(design)
+
+C:\Users\PC\PycharmProjects\pythonProject\myenvtwo
+
+ruta del servidor: ubuntu jupyter lab
+ => servidor launch
+server:  http://localhost:8888/lab?token=d71998d1462ef8f816913657a91024882601b42b74909d1d
+[I 2024-12-06 09:51:47.984 ServerApp]     http://127.0.0.1:8888/lab?token=d71998d1462ef8f816913657a91024882601b42b74909d1d
+
+
