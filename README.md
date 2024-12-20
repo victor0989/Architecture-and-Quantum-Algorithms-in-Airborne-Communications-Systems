@@ -93,17 +93,6 @@ python -m unittest discover tests
 # (instructions for running on STM32CubeIDE or Vivado)
 ```
 
----
-
-## Visual Representation
-### System Architecture Diagram
-![System Architecture](https://via.placeholder.com/800x400.png?text=System+Architecture+Diagram)
-
-### Beam Guidance Flow
-![Beam Guidance](https://via.placeholder.com/800x400.png?text=Beam+Guidance+Flow)
-
----
-
 ## Future Work
 - **Quantum Algorithm Integration**: Expand quantum processing capabilities.
 - **Advanced Photodetection Techniques**: Enhance measurement accuracy.
